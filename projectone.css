@@ -2,15 +2,15 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin:25px;
     background-color: rgb(94, 255, 0);
-    color:#9c39ff;
+    color:#000000;
     font-weight: 500;
     background: linear-gradient(rgb(0, 174, 255), #e5fafc);
 
 }
 
 h1{
-    color:rgb(94, 255, 0);
-    background-color: #9c39ff;
+    color:rgb(163, 163, 163);
+    background-color: #3978ff;
     padding: 20px;
     margin: 20px;
     width: 600px;
